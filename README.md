@@ -13,3 +13,4 @@ If you want to customize these files further, see the [Custom User configuration
 # Contributing
 
 We encourage contributions to this repo. Feel free to submit and add your own test users. Important: never contribute real user data, even if it has been anonymized, unless it is your own, personal data that you have the right to share (i.e., not data belonging to a customer of your service).
+username good Password good 
